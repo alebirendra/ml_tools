@@ -12,7 +12,7 @@ ef = ElementFraction()
 ## lst = ['MnO2', 'LiO2'] list of formulas
 
 def ElementFractionFeaturizer(lst):
-    
+    ''' lst = ['MnO2', 'LiO2'] list of formulas '''
     '''calculate the atomic fraction of each element in a composition of 
     given list of formulas.
 
